@@ -8,3 +8,6 @@ padding-bottom: 250px;
   color: white;
   align-items: center;
 }
+.float{
+  float: left;
+}
