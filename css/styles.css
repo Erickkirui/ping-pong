@@ -1,0 +1,10 @@
+.ping{
+  text-align: center;
+background-image: url("/home/erick/Documents/project-3/images/pong.jpg");
+background-repeat: no-repeat;
+padding-bottom: 250px;
+}
+.pong{
+  color: white;
+  align-items: center;
+}
