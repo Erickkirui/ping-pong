@@ -40,4 +40,8 @@ ol{
  font-size: 35px;
  color:		#4682B4	;
  font-style: italic;
+ border-style: dashed;
+}
+.h3{
+  color: red;
 }
