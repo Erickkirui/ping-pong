@@ -16,6 +16,7 @@ padding-top: 50px;
   background-color: 		#FF8C00;
   margin-right: : 150px;
   margin-bottom: 100px;
+  padding-bottom: 50px;
 }
 
 p{
@@ -25,10 +26,10 @@ p{
   background-image: url("/home/erick/Documents/project-3/images/M03630-2.jpg");
 }
 ol{
-  padding-bottom: 90px;
+  padding-bottom: 50px;
 }
 .down{
-    padding-bottom: 90px;
+    padding-bottom: 50px;
 }
 #number{
   color: #0000CD;
