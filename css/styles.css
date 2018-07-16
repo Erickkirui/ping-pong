@@ -1,21 +1,35 @@
 .ping{
   text-align: center;
 background-image: url("/home/erick/Documents/project-3/images/pong.jpg");
-background-repeat: no-repeat;
-padding-bottom: 250px;
+padding-bottom: 100px;
+padding-top: 50px;
+
 }
 .pong{
   color: white;
   align-items: center;
+  margin-top: 100px;
 }
 .float{
   float: left;
   font-size: 35px;
-  background-color: 	#1E90FF;
+  background-color: 		#FF8C00;
   margin-right: : 150px;
+  margin-bottom: 100px;
 }
 
 p{
   font-size: 20px;
-  
+}
+.ball{
+  background-image: url("/home/erick/Documents/project-3/images/M03630-2.jpg");
+}
+ol{
+  padding-bottom: 90px;
+}
+.down{
+    padding-bottom: 90px;
+}
+#number{
+  color: #0000CD;
 }
